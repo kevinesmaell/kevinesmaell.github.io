@@ -7,12 +7,12 @@ url: "http://kevinesmaell.github.io" # for test: remove string 'http://victorvoi
 # User settings
 username: kevin esmael liu
 user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
+email: kevinesmaell@outlook.com
+twitter_username: 
+github_username:  kevinesmaell
+gplus_username:  
+linkedin_public_url: kevin-liu-376653223 # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: 
 profile_picture: https://data.whicdn.com/images/349537654/original.jpg
 
 # Build settings
