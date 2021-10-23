@@ -62,3 +62,8 @@ projects:
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+
+# pinned
+pinned:
+  - name: about me
+    url: https://kevinesmaell.github.io/about/
