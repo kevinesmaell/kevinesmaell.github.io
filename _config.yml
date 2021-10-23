@@ -42,8 +42,8 @@ links:
     - title: tags
       url: /tags
       key_trigger: 4
-    - title: about me
-      url: /about
+    - title: all projects
+      url: /all-projects
       key_trigger: 5
   section_2:
     - title: github
