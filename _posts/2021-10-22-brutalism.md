@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "test2"
+title:  "brutalism"
 image: ''
-date:   2021-10-19 00:06:33 -0800
+date:   2021-10-22 00:06:33 -0800
 tags:
 - mongodb
 description: ''
