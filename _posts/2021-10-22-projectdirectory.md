@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "project catalog/directory"
-order: 2
 image: ''
-date:   2021-10-22 00:06:32
-weight: 99
+date:   2021-10-22 00:06:32 -0800
 tags:
 - mongodb
 description: ''
