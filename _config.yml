@@ -53,15 +53,15 @@ links:
 
 # projects in header index
 projects:
-  - name: cryptocurrency mining 
+  - name: Cryptocurrency mining 
     url: https://www.youtube.com/watch?v=x2fvHwCSGbk
-  - name: custom Spotify ui design using spicetify-cli
+  - name: Custom Spotify ui design using spicetify-cli
     url: https://www.youtube.com/watch?v=8dAWgnmgcso
   - name: pastelUI - custom video game hud + ui
     url: https://www.youtube.com/watch?v=rRhratE0KNk
   - name: 3D-printed wireless charger tray for Jeep Cheroke 2020
     url: https://www.youtube.com/watch?v=rRhratE0KNk
-  - name: hyperdetailed quarantine minecraft builds using "chisel and bits" mod
+  - name: Hyperdetailed minecraft builds using "chisel and bits" mod
     url: https://www.youtube.com/watch?v=rRhratE0KNk
 
 # exclude my node related stuff
