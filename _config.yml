@@ -59,6 +59,10 @@ projects:
     url: https://www.youtube.com/watch?v=8dAWgnmgcso
   - name: pastelUI - custom video game hud + ui
     url: https://www.youtube.com/watch?v=rRhratE0KNk
+  - name: 3D-printed wireless charger tray for Jeep Cheroke 2020
+    url: https://www.youtube.com/watch?v=rRhratE0KNk
+  - name: hyperdetailed quarantine minecraft builds using "chisel and bits" mod
+    url: https://www.youtube.com/watch?v=rRhratE0KNk
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
