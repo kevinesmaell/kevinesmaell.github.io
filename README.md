@@ -72,8 +72,8 @@ links:
     - title: tags
       url: /tags
       key_trigger: 4
-    - title: about me
-      url: /about
+    - title: projects
+      url: /projects
       key_trigger: 5
 ```
 
