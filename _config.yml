@@ -33,7 +33,7 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: posts
+    - title: my posts
       url: /posts
       key_trigger: 2
     - title: series
@@ -42,8 +42,8 @@ links:
     - title: tags
       url: /tags
       key_trigger: 4
-    - title: projects
-      url: /projects
+    - title: about me
+      url: /about
       key_trigger: 5
   section_2:
     - title: github
