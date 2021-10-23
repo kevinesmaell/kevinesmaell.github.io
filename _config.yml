@@ -60,11 +60,11 @@ links:
 # projects in header index
 projects:
   - name: minecraft builds
-    url: https://github.com/fluany/fluany
+    url: https://www.youtube.com/watch?v=x2fvHwCSGbk
   - name: cryptocurrency mining
-    url: https://github.com/victorvoid/vim-frontend
+    url: https://www.youtube.com/watch?v=8dAWgnmgcso
   - name: spotify reskins
-    url: https://github.com/victorvoid/generator-capybara 
+    url: https://www.youtube.com/watch?v=rRhratE0KNk
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
