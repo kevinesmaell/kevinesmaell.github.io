@@ -33,18 +33,18 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: posts
+    - title: my posts
       url: /posts
       key_trigger: 2
-      - title: tags
+    - title: tags
       url: /tags
-      key_trigger: 3
-    - title: about
-      url: /about
       key_trigger: 4
+    - title: about me
+      url: /about
+      key_trigger: 5
   section_2:
     - title: github
-      url: https://github.com/kevinesmaell
+      url: http://www.github.com/victorvoid
       new_tab: true
       key_trigger: g
     - title: search
