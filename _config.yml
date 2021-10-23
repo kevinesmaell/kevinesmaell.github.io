@@ -43,7 +43,7 @@ links:
       url: /tags
       key_trigger: 4
     - title: all projects
-      url: /all projects
+      url: /all-projects
       key_trigger: 5
   section_2:
     - title: github
