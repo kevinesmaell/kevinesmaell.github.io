@@ -47,17 +47,6 @@
         </ul>
 
         <ul class="recent">
-            <p>posts:</p>
-             {% for post in site.posts limit:3%}
-                <li>
-                    <a title="Will take a my recent post" href="{{ post.url | prepend: site.baseurl }}">
-                        <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
-                    </a>
-                </li>
-              {% endfor %}
-        </ul>
-
-        <ul class="recent">
             <p>recent projects:</p>
              {% for project in site.projects limit:3%}
                 <li>
