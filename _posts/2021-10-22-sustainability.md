@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "wabi-sabi侘寂: a traditional japanese aesthetic"
+title:  "sustainable construction materials"
 image: ''
 date:   2021-10-22 00:06:32 -0800
 tags:
