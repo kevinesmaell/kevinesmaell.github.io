@@ -53,11 +53,11 @@ links:
 
 # projects in header index
 projects:
-  - name: cryptocurrency mining with nicehash
+  - name: cryptocurrency mining 
     url: https://www.youtube.com/watch?v=x2fvHwCSGbk
-  - name: custom spotify theme/reskin
+  - name: custom Spotify UI design using spicetify-cli
     url: https://www.youtube.com/watch?v=8dAWgnmgcso
-  - name: mxr-UI - custom video game hud + ui developed by me.
+  - name: pastelUI - custom video game hud + ui
     url: https://www.youtube.com/watch?v=rRhratE0KNk
 
 # exclude my node related stuff
