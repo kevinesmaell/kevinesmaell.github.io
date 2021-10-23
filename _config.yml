@@ -65,5 +65,5 @@ exclude: ['package.json', 'src', 'node_modules']
 
 # pinned
 pinned:
-  - name: about me
+  - name: project catalog/directory
     url: https://kevinesmaell.github.io/about/
