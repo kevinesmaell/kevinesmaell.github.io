@@ -36,7 +36,7 @@ links:
     - title: my posts
       url: /posts
       key_trigger: 2
-    - title: projec
+    - title: about
       url: /about
       key_trigger: 3
       - title: tags
