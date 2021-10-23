@@ -39,7 +39,7 @@ links:
     - title: tags
       url: /tags
       key_trigger: 3
-    - title: about me
+    - title: projects
       url: /about
       key_trigger: 4
   section_2:
