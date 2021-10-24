@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "construction methods and sustainability"
+title:  "brutalist architecture and interior design"
 image: ''
 date:   2021-10-22 00:06:33 -0800
 tags:
