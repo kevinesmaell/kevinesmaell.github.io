@@ -40,7 +40,7 @@ links:
       url: /tags
       key_trigger: 4
     - title: about me
-      url: /about
+      url: /projects
       key_trigger: 5
   section_2:
     - title: github
