@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "sustainable construction materials"
+title:  "minimalism and sustainability"
 image: ''
 date:   2021-10-22 00:06:32 -0800
 tags:
