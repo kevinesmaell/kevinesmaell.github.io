@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PLACEHOLDER TEXT PLACEHOLDER TEXT 2"
+title:  "project directory"
 image: ''
 date:   2021-10-22 00:06:32 -0800
 tags:
@@ -9,8 +9,6 @@ description: ''
 categories:
 - Learn GH 
 ---
-
-<img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif">
 
 ### guide
 
