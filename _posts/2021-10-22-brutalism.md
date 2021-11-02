@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "brutalist architecture and interior design"
+title:  "PLACEHOLDER TEXT PLACEHOLDER TEXT"
 image: ''
 date:   2021-10-22 00:06:33 -0800
 tags:
@@ -16,9 +16,7 @@ categories:
 
 ### guide
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque
-
-It would probably bore anyone reading this to death if I told you a whole story. So here's a list instead.
+PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT 
 
 ### the list, sorted into categories, because that's what i do
 
@@ -33,21 +31,21 @@ It would probably bore anyone reading this to death if I told you a whole story.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, illo eaque incidunt voluptatibus minus repudiandae eius consectetur tempore enim quisquam, quia veniam fuga autem, labore quas voluptate suscipit. Omnis, rem!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, veritatis modi libero unde! Sapiente tempora eius cum doloribus, non, provident, veniam placeat veritatis quos possimus asperiores ipsam animi aliquam vel!
 
-<img src="https://octodex.github.com/images/codercat.jpg" alt="">
+<img src="https://www.nomadfoods.com/wp-content/uploads/2018/08/placeholder-1-e1533569576673-960x960.png" alt="">
 
 ### Lorem ipsum dolor, alias.?
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo minima veritatis est, unde nesciunt optio debitis. Soluta eos temporibus harum esse eveniet, alias praesentium, sapiente ipsa excepturi reprehenderit ullam ea.
 
-#### Warning!
+#### PLACEHOLDER
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque corporis, fuga sequi cumque in quos excepturi placeat iste! Eaque voluptatum laudantium, recusandae optio! Rem impedit laborum enim minima aliquid, repellendus.<br>
 ` scalability` Lorem ipsum dolor sit amet, consebus tempora!:
 
-1. <a href="http://dba.stackexchange.com/questions/4508/what-does-horizontal-scaling-mean" target="_blank">What does horizontal scaling mean?</a>
-2. <a href="https://blog.openshift.com/best-practices-for-horizontal-application-scaling/" target="_blank">Best Practices For Horizontal Application Scaling</a>
-3. <a href="http://www.infoq.com/articles/ebay-scalability-best-practices" target="_blank">Scalability Best Practices: Lessons from eBay</a>
-4. <a href="http://stackoverflow.com/questions/5401992/what-does-scale-horizontally-and-scale-vertically-mean" target="_blank">What does scale horizontally and scale vertically mean?</a>
+1. <a href="https://en.wikipedia.org/wiki/Placeholder" target="_blank">blah blah blah 1</a>
+2. <a href="https://en.wikipedia.org/wiki/Placeholder" target="_blank">blah blah blah 2</a>
+3. <a href="https://en.wikipedia.org/wiki/Placeholder" target="_blank">blah blah blah 3</a>
+4. <a href="https://en.wikipedia.org/wiki/Placeholder" target="_blank">blah blah blah 4</a>
 
 ### Lorem ipsum dolor sit amet,res.
 

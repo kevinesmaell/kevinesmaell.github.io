@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "a life towards minimalism and sustainability"
+title:  "PLACEHOLDER TEXT PLACEHOLDER TEXT 2"
 image: ''
 date:   2021-10-22 00:06:32 -0800
 tags:
