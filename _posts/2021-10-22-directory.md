@@ -4,7 +4,7 @@ title:  "project directory"
 image: ''
 date:   2021-10-22 00:06:32 -0800
 tags:
-- mongodb
+- general
 description: ''
 categories:
 - Learn GH 
