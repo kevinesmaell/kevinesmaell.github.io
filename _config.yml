@@ -53,15 +53,19 @@ links:
 
 # projects in header index
 projects:
-  - name: cryptocurrency mining 
+  - name: case study house 20B - bass house modeling 
     url: https://en.wikipedia.org/wiki/Placeholder
   - name: custom spotify ui design using spicetify-cli
     url: https://en.wikipedia.org/wiki/Placeholder
+  - name: powered can crusher - aluminum recycling
+    url: https://en.wikipedia.org/wiki/Placeholder  
   - name: pastelUI - custom video game hud + ui
     url: https://github.com/kevinesmaell/pastelUI
   - name: 3D-printed wireless charger tray for Jeep Cheroke 2020
     url: https://en.wikipedia.org/wiki/Placeholder
   - name: hyperdetailed minecraft builds using "chisel and bits" mod
+    url: https://en.wikipedia.org/wiki/Placeholder 
+  - name: cryptocurrency mining 
     url: https://en.wikipedia.org/wiki/Placeholder
 
 # exclude my node related stuff
